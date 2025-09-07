@@ -8,7 +8,8 @@
     "dev": "vite",
    "deploy": "gh-pages -d build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+     "build": "react-scripts build"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
