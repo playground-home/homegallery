@@ -1,0 +1,113 @@
+{
+  "categories": [
+    { "id": "electronics", "name": "إلكترونيات", "icon": "📱" },
+    { "id": "artifacts", "name": "تحف وأثريات", "icon": "🏺" },
+    { "id": "furniture", "name": "أثاث", "icon": "🪑" },
+    { "id": "books", "name": "كتب", "icon": "📚" },
+    { "id": "clothes", "name": "ملابس", "icon": "👔" },
+    { "id": "accessories", "name": "إكسسوارات", "icon": "💍" }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "ساعة ذكية فاخرة",
+      "category": "electronics",
+      "price": "1,500 ريال",
+      "description": "ساعة ذكية عالية الجودة مع شاشة lcs وبطارية تدوم لأسبوع كامل.تتضمن مراقبة معدل ضربات القلب ومقاومة للماء حتى 50 متر.",
+      "images": [
+        "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1697215/pexels-photo-1697215.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "مزهرية خزفية عتيقة",
+      "category": "artifacts",
+      "price": "850 ريال",
+      "description": "مزهرية خزفية عتيقة مصنوعة يدوياً بتصاميم تقليدية جميلة. قطعة فنية نادرة تضفي لمسة أناقة على أي مساحة.",
+      "images": [
+        "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1020316/pexels-photo-1020316.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "كرسي مكتب مريح",
+      "category": "furniture",
+      "price": "2,200 ريال",
+      "description": "كرسي مكتب مريح مع دعم قطني ممتاز وإمكانية تعديل الارتفاع. مصنوع من مواد عالية الجودة ومناسب للاستخدام اليومي الطويل.",
+      "images": [
+        "https://images.pexels.com/photos/586960/pexels-photo-586960.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/586961/pexels-photo-586961.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/586962/pexels-photo-586962.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "مجموعة كتب فلسفية",
+      "category": "books",
+      "price": "450 ريال",
+      "description": "مجموعة نادرة من الكتب الفلسفية الكلاسيكية باللغة العربية. تشمل أعمال الغزالي وابن رشد وابن سينا في طبعات أنيقة.",
+      "images": [
+        "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1170413/pexels-photo-1170413.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "بدلة رسمية راقية",
+      "category": "clothes",
+      "price": "1,800 ريال",
+      "description": "بدلة رسمية راقية مصنوعة من الصوف الخالص. مفصلة حسب المقاس مع تفاصيل أنيقة مناسبة للمناسبات الرسمية والأعمال.",
+      "images": [
+        "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1040946/pexels-photo-1040946.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "عقد لؤلؤ طبيعي",
+      "category": "accessories",
+      "price": "3,200 ريال",
+      "description": "عقد من اللؤلؤ الطبيعي عالي الجودة مع قفل ذهبي. قطعة مجوهرات فاخرة مناسبة للمناسبات الخاصة.",
+      "images": [
+        "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1191532/pexels-photo-1191532.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1191533/pexels-photo-1191533.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "لابتوب للألعاب",
+      "category": "electronics",
+      "price": "4,500 ريال",
+      "description": "لابتوب قوي مخصص للألعاب مع معالج رسوميات متقدم وذاكرة عشوائية 16 جيجا. مثالي للألعاب والتصميم.",
+      "images": [
+        "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/205422/pexels-photo-205422.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "طاولة خشبية عتيقة",
+      "category": "furniture",
+      "price": "1,200 ريال",
+      "description": "طاولة خشبية عتيقة مصنوعة من الخشب الصلب مع تفاصيل منحوتة يدوياً. قطعة أثاث كلاسيكية تضفي دفء على المنزل.",
+      "images": [
+        "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1350790/pexels-photo-1350790.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1350791/pexels-photo-1350791.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    }
+  ],
+  "contactInfo": {
+    "phone": "+966 50 123 4567",
+    "email": "contact@catalog.com",
+    "whatsapp": "+966501234567"
+  }
+}
