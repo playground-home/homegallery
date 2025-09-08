@@ -48,7 +48,7 @@ function App() {
   useEffect(() => {
     const loadCatalogData = async () => {
       try {
-        const response = await fetch('/data/catalog.json');
+        const response = await fetch('/homegallery/data/catalog.json');
         const data: CatalogData = await response.json();
         setCatalogData(data);
       } catch (error) {

@@ -1,7 +1,7 @@
 {
   "name": "vite-react-typescript-starter",
   "private": true,
-  "homepage": "https://playground-home.github.io",
+  "homepage": "https://playground-home.github.io/homegallery",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
